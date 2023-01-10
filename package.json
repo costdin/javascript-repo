@@ -9,9 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "simple-git": "3.0.1",
-    "lodash": "1.0.0",
-    "dustjs-linkedin": "0.0.24",
-    "body-parser": "1.0.0"
+
   }
 }
