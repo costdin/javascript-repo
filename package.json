@@ -12,7 +12,7 @@
     "body-parser": "1.0.0",
     "dustjs-linkedin": "0.0.24",
     "lodash": "1.0.0",
-    "react": "^15.0.0",
-    "simple-git": "3.0.1"
+    "react": "^16.5.0",
+    "simple-git": "3.16.0"
   }
 }
