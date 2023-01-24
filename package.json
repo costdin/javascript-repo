@@ -24,6 +24,7 @@
     "electerm": "1.0.0",
     "ghost": "0.0.0",
     "baobab": "1.0.0",
-    "nodebatis": "1.0.0"
+    "nodebatis": "1.0.0",
+    "luxon": "1.1.0"
   }
 }
