@@ -25,6 +25,7 @@
     "ghost": "0.0.0",
     "baobab": "1.0.0",
     "nodebatis": "1.0.0",
-    "luxon": "1.1.0"
+    "luxon": "1.1.0",
+    "utilities": "1.0.0"
   }
 }
