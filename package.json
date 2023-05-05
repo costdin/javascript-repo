@@ -22,7 +22,7 @@
     "mocha": "1.0.0",
     "acorn": "1.0.0",
     "electerm": "1.0.0",
-    "ghost": "0.0.0",
+    "ghost": "5.42.1",
     "baobab": "1.0.0",
     "nodebatis": "1.0.0",
     "luxon": "1.1.0",
