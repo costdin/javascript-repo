@@ -11,7 +11,7 @@
   "dependencies": {
     "body-parser": "1.0.0",
     "dustjs-linkedin": "0.0.24",
-    "lodash": "1.0.0",
+    "lodash": "4.17.17",
     "react": "^15.0.0",
     "simple-git": "3.0.1",
     "mime": "1.0.0",
